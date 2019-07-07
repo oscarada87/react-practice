@@ -1,0 +1,23 @@
+.RoundButton {
+  font-size: 13px;
+  height: 40px;
+  width: 160px;
+  line-height: 40px;
+  text-align: center;
+  border: 1px solid #3e3a39;
+  display: block;
+  border-radius: 20px;
+  -webkit-transition: .3s;
+  transition: .3s;
+  letter-spacing: 0.07em;
+  cursor: pointer;
+
+  background-color: white;
+  color: black;
+  outline: none;
+  font-size: 0.9em;
+}
+.RoundButton:hover{
+  background-color: #3e3a39;
+  color: white;
+}

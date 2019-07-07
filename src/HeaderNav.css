@@ -1,0 +1,19 @@
+.header_li{
+  list-style: none;
+  display: list-item;
+  text-align: -webkit-match-parent;
+  float: left;
+}
+.header_ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+.header_a{
+  display: list-item;
+  color: #3e3a39;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}

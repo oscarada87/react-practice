@@ -1,0 +1,18 @@
+.Item{
+  background-color: white;
+  height: 11.5em;
+}
+.ItemTitle,.ItemSubtitle{
+  text-align: center;
+  color: black;
+}
+.ItemTitle{
+  font-size: 1.5em;
+  font-weight: normal;
+  letter-spacing: 5px;
+  padding-top: 2.5em;
+}
+.ItemSubtitle{
+  font-size: 0.67em;
+  letter-spacing: 1.7px;
+}

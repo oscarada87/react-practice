@@ -1,0 +1,27 @@
+.NewsDate,.NewsDiv,.NewsCont{
+  font-size: 0.9em;
+  padding: 0px;
+  margin: 20px 0px;
+  letter-spacing: 2px;
+}
+.NewsLi{
+  list-style: none;
+  text-align: left;
+  margin-top: 18px;
+}
+.NewsDate{
+  margin-left: 25px;
+}
+.NewsDiv{
+  padding: 2px 9px;
+  margin: 0px 28px;
+  font-size: 0.65em;
+  background-color: #3e3a39;
+  color: white;
+  border-radius: 3px;
+}
+.NewsHr{
+  border-style: dotted;
+  border-width: 0.5px;
+  margin-top: 8px;
+}

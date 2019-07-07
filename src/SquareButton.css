@@ -1,0 +1,24 @@
+.SquareButton {
+    height: 50px;
+    width: 240px;
+    line-height: 50px;
+    text-align: center;
+    border: 1px solid #3e3a39;
+    display: block;
+    margin: 0 auto;
+    margin-top: 4em;
+    border-radius: 5px;
+    -webkit-transition: .3s;
+    transition: .3s;
+    letter-spacing: 0.07em;
+    cursor: pointer;
+
+    background-color: white;
+    color: black;
+    outline: none;
+    font-size: 0.9em;
+}
+.SquareButton:hover{
+    background-color: #3e3a39;
+    color: white;
+}

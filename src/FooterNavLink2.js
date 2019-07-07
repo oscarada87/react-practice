@@ -1,0 +1,43 @@
+export const FooterNavLink2 = [
+{
+  classname:'level1',
+  URL:'https://togahouse.jp/works',
+  text:'施工事例',
+},
+{
+  classname:'level1',
+  URL:'https://togahouse.jp/togahaku',
+  text:'宿泊体感ハウス「TOGA HAKU」',
+},
+{
+  classname:'level1',
+  URL:'https://togahouse.jp/voice/',
+  text:'お客さまの声',
+},
+{
+  classname:'level1',
+  URL:'https://togahouse.jp/flow',
+  text:'家づくりの流れ',
+},
+{
+  classname:'level1',
+  URL:'https://togahouse.jp/afterfollow/',
+  text:'アフターフォロー',
+},
+{
+  classname:'level1',
+  URL:'https://togahouse.jp/ob/',
+  text:'OB訪問について',
+},
+{
+  classname:'level1',
+  URL:'https://togahouse.jp/finance/',
+  text:'資金について',
+},
+{
+  classname:'level1',
+  URL:'https://togahouse.jp/company/',
+  text:'会社概要',
+},
+
+];

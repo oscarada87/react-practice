@@ -1,0 +1,34 @@
+.HouseItem{
+  margin: 10px 5px;
+  width: 262px;
+}
+.HouseHr,.HousePar,.HouseLogoContainer,.HouseImg{
+  display: block;
+  width: 262px;
+}
+.HouseImg{
+  height: 250px;
+}
+.HouseLogoContainer{
+  display: block;
+  text-align: center;
+  margin: 20px 0px;
+}
+.HouseLogo{
+  width: 138px;
+  height: auto;
+}
+.HousePar{
+  min-height: 180px;
+  font-size: 0.85em;
+}
+.HouseButton{
+  display: block;
+  margin-top:20px;
+  margin-bottom: 30px;
+  margin-left: 55px;
+}
+.HouseHr{
+  border-width: thin;
+  border-color: #f1f2f2;
+}

@@ -1,0 +1,27 @@
+export const FooterNavLink3 = [
+{
+  classname:'level1',
+  URL:'https://togahouse.jp/news',
+  text:'お知らせ',
+},
+{
+  classname:'level1',
+  URL:'https://togahouse.jp/sitemap/',
+  text:'サイトマップ',
+},
+{
+  classname:'level1',
+  URL:'https://togahouse.jp/privacy',
+  text:'プライバシーポリシー',
+},
+{
+  classname:'level1',
+  URL:'https://togahouse.jp/contact',
+  text:'お問い合わせ',
+},
+{
+  classname:'level1',
+  URL:'https://togahouse.jp/zeh/',
+  text:'ZEH計画',
+},
+];
